@@ -6,3 +6,4 @@ Methodology:
 - Problems
 	- [[Maximum Subarray]]
 	- [[Climbing Stairs]]
+	- [[Divisor Game]]

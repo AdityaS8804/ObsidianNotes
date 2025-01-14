@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "bc85e440ad8855e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22f425eebebd7ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed9c55e4fe8eb5a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-01-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-14"
+            }
+          },
+          {
+            "id": "6e667ea1b74b08e5",
+            "type": "leaf",
+            "state": {
+              "type": "planner-release-notes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Day Planner Release 0.27.0"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a138e9ab20d2ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb711035df7f5a59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d1ad7bc3681d3f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f700a73edc4b0840",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4c8020a688de6d2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "353e85b0ab4fb8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2d72fdaaa44f1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c8be772e59e8881",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LeetCode/Overall Progress.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Overall Progress"
+            }
+          },
+          {
+            "id": "11bba4bf30e0f8e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LeetCode/Overall Progress.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Overall Progress"
+            }
+          },
+          {
+            "id": "e82fcb1e437692d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "266348121006f77c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LeetCode/Overall Progress.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Overall Progress"
+            }
+          },
+          {
+            "id": "7ee5f93352156c17",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "b34491070eacb00b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "sheet-plus:Create excel file": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6e667ea1b74b08e5",
+  "lastOpenFiles": [
+    "LeetCode/Topics/DP.md",
+    "2025-01-14.md",
+    "LeetCode/Problems/Climbing Stairs.md",
+    "LeetCode/Problems/LeetCode Problems by Category.md",
+    "LeetCode/Problems/Divisor Game.md",
+    "LeetCode/Overall Progress.md",
+    "LeetCode/Problems/Maximum Subarray.md",
+    "LeetCode/Topics",
+    "LeetCode/Problems",
+    "Welcome.md",
+    "LeetCode/Untitled.canvas",
+    "Excel 2025-01-05 09.12.35.univer.md",
+    "LeetCode"
+  ]
+}
