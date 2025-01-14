@@ -11,14 +11,15 @@
             "id": "ed9c55e4fe8eb5a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2025-01-14.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-01-14"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -31,8 +32,7 @@
               "title": "Day Planner Release 0.27.0"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e667ea1b74b08e5",
+  "active": "ed9c55e4fe8eb5a2",
   "lastOpenFiles": [
-    "LeetCode/Topics/DP.md",
     "2025-01-14.md",
+    "gcm-linux_amd64.2.1.2.deb",
+    "LeetCode/Topics/DP.md",
     "LeetCode/Problems/Climbing Stairs.md",
     "LeetCode/Problems/LeetCode Problems by Category.md",
     "LeetCode/Problems/Divisor Game.md",
