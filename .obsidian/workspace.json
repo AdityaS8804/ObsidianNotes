@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a22f425eebebd7ba",
+        "id": "b347018c969675de",
         "type": "tabs",
         "children": [
           {
-            "id": "ed9c55e4fe8eb5a2",
+            "id": "aca5885764f66343",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Jan, 14–Jan, 16"
             }
           },
           {
-            "id": "6e667ea1b74b08e5",
+            "id": "9541254de811a9f7",
             "type": "leaf",
             "state": {
-              "type": "planner-release-notes",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-01-14.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Day Planner Release 0.27.0"
+              "title": "2025-01-14"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Overall Progress.md"
+                "file": "2025-01-14.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Overall Progress"
+              "title": "Outline of 2025-01-14"
             }
           },
           {
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 571.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed9c55e4fe8eb5a2",
+  "active": "b34491070eacb00b",
   "lastOpenFiles": [
     "2025-01-14.md",
     "gcm-linux_amd64.2.1.2.deb",
