@@ -11,10 +11,12 @@
             "id": "24f76d976f0730d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "LeetCode/Problems/934. Shortest Bridge/Diagram.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Diagram"
             }
           }
         ]
@@ -94,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "LeetCode/Problems/934. Shortest Bridge/Diagram.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "LeetCode/Problems/934. Shortest Bridge/Diagram.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -125,6 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "LeetCode/Problems/934. Shortest Bridge/Diagram.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,11 +159,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "24f76d976f0730d2",
+  "active": "5fe5ec4b59a7340b",
   "lastOpenFiles": [
+    "LeetCode/Problems/934. Shortest Bridge",
+    "LeetCode/Problems/934. Shortest Bridge/Diagram.md",
+    "Untitled.md",
+    "handwritten-notes/Testing.pdf",
+    "handwritten-notes",
+    "Excalidraw",
     "Hackathons/GDG Hackathon.md",
     "Hackathons/Healthcare winners.md",
     "Hackathons",
