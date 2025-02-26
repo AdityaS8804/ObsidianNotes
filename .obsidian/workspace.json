@@ -1,64 +1,54 @@
 {
   "main": {
-    "id": "bc85e440ad8855e3",
+    "id": "1b942e4659e1d2ac",
     "type": "split",
     "children": [
       {
-        "id": "b347018c969675de",
+        "id": "062d1db2a3ed7efb",
         "type": "tabs",
         "children": [
           {
-            "id": "aca5885764f66343",
-            "type": "leaf",
-            "state": {
-              "type": "planner-weekly",
-              "state": {},
-              "icon": "table-2",
-              "title": "Jan, 14–Jan, 16"
-            }
-          },
-          {
-            "id": "9541254de811a9f7",
+            "id": "6ece84d7646ce162",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-14.md",
+                "file": "LeetCode/Problems/LeetCode Problems by Category.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-14"
+              "title": "LeetCode Problems by Category"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5a138e9ab20d2ef4",
+    "id": "67e15c39c63ed2c4",
     "type": "split",
     "children": [
       {
-        "id": "fb711035df7f5a59",
+        "id": "23b93ff10356ffac",
         "type": "tabs",
         "children": [
           {
-            "id": "7d1ad7bc3681d3f5",
+            "id": "03e9c87cbb285908",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "f700a73edc4b0840",
+            "id": "8bdd2f6daf7a65c0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +65,7 @@
             }
           },
           {
-            "id": "4c8020a688de6d2e",
+            "id": "4e13217a8d09ecc3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "353e85b0ab4fb8b1",
+    "id": "dc33c757ac515242",
     "type": "split",
     "children": [
       {
-        "id": "ba2d72fdaaa44f1d",
+        "id": "661ed689ca58445d",
         "type": "tabs",
         "children": [
           {
-            "id": "9c8be772e59e8881",
+            "id": "7cfdb4ca6ee5f9c9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Overall Progress.md",
+                "file": "Hackathons/Healthcare winners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,50 +104,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overall Progress"
+              "title": "Backlinks for Healthcare winners"
             }
           },
           {
-            "id": "11bba4bf30e0f8e0",
+            "id": "4d01f4d9273ec8df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Overall Progress.md",
+                "file": "Hackathons/Healthcare winners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Overall Progress"
+              "title": "Outgoing links from Healthcare winners"
             }
           },
           {
-            "id": "e82fcb1e437692d8",
+            "id": "d050cf682c9b6505",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "266348121006f77c",
+            "id": "953b5b2a859ed9fa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-14.md"
+                "file": "LeetCode/Problems/LeetCode Problems by Category.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-14"
+              "title": "Outline of LeetCode Problems by Category"
             }
           },
           {
-            "id": "7ee5f93352156c17",
+            "id": "2634e63a01d58d7c",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -167,7 +162,7 @@
             }
           },
           {
-            "id": "b34491070eacb00b",
+            "id": "06b246cbc24480fc",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -181,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,21 +192,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b34491070eacb00b",
+  "active": "6ece84d7646ce162",
   "lastOpenFiles": [
-    "2025-01-14.md",
-    "gcm-linux_amd64.2.1.2.deb",
-    "LeetCode/Topics/DP.md",
-    "LeetCode/Problems/Climbing Stairs.md",
+    "Tracker/Weekly Tracker.md",
     "LeetCode/Problems/LeetCode Problems by Category.md",
-    "LeetCode/Problems/Divisor Game.md",
-    "LeetCode/Overall Progress.md",
     "LeetCode/Problems/Maximum Subarray.md",
-    "LeetCode/Topics",
-    "LeetCode/Problems",
-    "Welcome.md",
-    "LeetCode/Untitled.canvas",
-    "Excel 2025-01-05 09.12.35.univer.md",
-    "LeetCode"
+    "LeetCode/Overall Progress.md",
+    "LeetCode/Overall Progress_dummy.md",
+    "LeetCode/Problems/Divisor Game.md",
+    "LeetCode/Topics/DFS.md",
+    "LeetCode/Topics/DP.md",
+    "Hackathons/Healthcare winners.md",
+    "ExoMine/ToDo.md",
+    "LeetCode/Problems/Climbing Stairs.md",
+    "LeetCode/Problems/133. Clone Graph.md"
   ]
 }
