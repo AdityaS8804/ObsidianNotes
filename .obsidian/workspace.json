@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e80bf16663bb6c",
+        "id": "429ccee4231bf2fc",
         "type": "tabs",
         "children": [
           {
-            "id": "56567df6b238ff8c",
+            "id": "3bafe19549db0701",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,13 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06b246cbc24480fc",
+  "active": "3bafe19549db0701",
   "lastOpenFiles": [
+    "LeetCode/Overall Progress.md",
     "LeetCode/Problems/Problems Template.md",
     "LeetCode/Problems/934. Shortest Bridge/934. Shortest Bridge.md",
     "conflict-files-obsidian-git.md",
     "LeetCode/Topics/DFS.md",
-    "LeetCode/Overall Progress.md",
     "LeetCode/OverallProgress_data.md",
     "LeetCode/Overall Progress_backup.md",
     "LeetCode/Problems/LeetCode Problems by Category.md",
