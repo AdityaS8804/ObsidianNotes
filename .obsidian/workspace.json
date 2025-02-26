@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "LeetCode Problems by Category"
             }
+          },
+          {
+            "id": "b136b6412f26cc4c",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +208,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ece84d7646ce162",
+  "active": "b136b6412f26cc4c",
   "lastOpenFiles": [
-    "Tracker/Weekly Tracker.md",
+    "conflict-files-obsidian-git.md",
     "LeetCode/Problems/LeetCode Problems by Category.md",
+    "handwritten-notes/Testing.pdf",
+    "handwritten-notes",
+    "LeetCode/Problems/934. Shortest Bridge/Diagram.md",
+    "LeetCode/Problems/934. Shortest Bridge",
+    "Tracker/Weekly Tracker.md",
     "LeetCode/Problems/Maximum Subarray.md",
     "LeetCode/Overall Progress.md",
     "LeetCode/Overall Progress_dummy.md",

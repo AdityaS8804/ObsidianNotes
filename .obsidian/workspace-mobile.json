@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "7df4f42cc56090d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed3db04d6d687dd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24f76d976f0730d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "LeetCode/Problems/934. Shortest Bridge/Diagram.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Diagram"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "196a3fd6875574dd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5fe5ec4b59a7340b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5fe04456d3c20ace",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1863cc08e388293d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "b03b9b83da737e4e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d539bb5d4bf614b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dc904eba2807d997",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "LeetCode/Problems/934. Shortest Bridge/Diagram.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "11bbed2aba0486c4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "LeetCode/Problems/934. Shortest Bridge/Diagram.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "43a116a8131817df",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "LeetCode/Problems/934. Shortest Bridge/Diagram.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "03bf2c196144d65e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "handwritten-notes:Create empty handwritten note": false
+    }
+  },
+  "active": "5fe5ec4b59a7340b",
+  "lastOpenFiles": [
+    "LeetCode/Problems/934. Shortest Bridge",
+    "LeetCode/Problems/934. Shortest Bridge/Diagram.md",
+    "Untitled.md",
+    "handwritten-notes/Testing.pdf",
+    "handwritten-notes",
+    "Excalidraw",
+    "Hackathons/GDG Hackathon.md",
+    "Hackathons/Healthcare winners.md",
+    "Hackathons",
+    "ExoMine/ToDo.md",
+    "ExoMine",
+    "Tracker/Weekly Tracker.md",
+    "Tracker",
+    "LeetCode/Topics/DFS.md",
+    "LeetCode/Topics/DP.md",
+    "LeetCode/Problems/Divisor Game.md",
+    "LeetCode/Problems/133. Clone Graph.md",
+    "LeetCode/Problems/Maximum Subarray.md",
+    "LeetCode/Problems/LeetCode Problems by Category.md",
+    "LeetCode/Problems/Climbing Stairs.md",
+    "LeetCode/Overall Progress.md",
+    "LeetCode/Topics",
+    "LeetCode/Problems",
+    "LeetCode"
+  ]
+}
