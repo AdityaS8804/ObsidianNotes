@@ -1,10 +1,8 @@
 [
+  "sheet-plus",
+  "obsidian-day-planner",
   "obsidian-git",
-<<<<<<< HEAD
-  "dataview",
-  "obsidian-excalidraw-plugin"
-=======
   "obsidian-excalidraw-plugin",
-  "handwritten-notes"
->>>>>>> origin/main
+  "heatmap-calendar",
+  "dataview"
 ]

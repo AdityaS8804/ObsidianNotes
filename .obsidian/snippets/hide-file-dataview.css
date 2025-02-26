@@ -1,0 +1,5 @@
+/* Hide the first column in Dataview tables (assumed to be the file column) */
+.dataview.table-view-table th:first-child,
+.dataview.table-view-table td:first-child {
+    display: none;
+}
