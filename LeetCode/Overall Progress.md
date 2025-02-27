@@ -20,8 +20,13 @@ solutions:
     topics: "[[DFS]]"
     level: Medium
     solved: 1
-  - date: 25/02/2025
+  - date: 26/02/2025
     problem: "[[934. Shortest Bridge]]"
+    topics: "[[DFS]]"
+    level: Medium
+    solved: 1
+  - date: 27/02/2025
+    problem: "[[130. Surrounded Regions]]"
     topics: "[[DFS]]"
     level: Medium
     solved: 1
