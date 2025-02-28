@@ -30,6 +30,11 @@ solutions:
     topics: "[[DFS]]"
     level: Medium
     solved: 1
+  - date: 28/02/2025
+    problem: "[[797. All Paths From Source to Target]]"
+    topics: "[[DFS]]"
+    level: Medium
+    solved: 1
 ---
 
 ```dataview
