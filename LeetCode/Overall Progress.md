@@ -40,6 +40,11 @@ solutions:
     topics: "[[Tree]]"
     level: Easy
     solved: 2
+  - date: 01/03/2025
+    problem: "[[1448. Count Good Nodes in Binary Tree]]"
+    topics: "[[Tree]]"
+    level: Medium
+    solved: 2
 ---
 
 ```dataview
