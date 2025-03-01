@@ -35,6 +35,11 @@ solutions:
     topics: "[[DFS]]"
     level: Medium
     solved: 1
+  - date: 01/03/2025
+    problem: "[[543. Diameter of Binary Tree]]"
+    topics: "[[Tree]]"
+    level: Easy
+    solved: 2
 ---
 
 ```dataview

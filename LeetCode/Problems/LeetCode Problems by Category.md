@@ -195,7 +195,7 @@
 ## Tree
 
 ### Easy
-- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) - [[543. Diameter of Binary Tree]]
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
