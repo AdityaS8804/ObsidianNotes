@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Topics/Tree.md",
+                "file": "LeetCode/Problems/LeetCode Problems by Category.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tree"
+              "title": "LeetCode Problems by Category"
             }
           }
         ],
@@ -210,15 +210,17 @@
   },
   "active": "c8a473b2be12ce66",
   "lastOpenFiles": [
+    "LeetCode/Topics/DP.md",
+    "LeetCode/Topics/Tree.md",
+    "LeetCode/Topics/DFS.md",
+    "LeetCode/Problems/133. Clone Graph.md",
+    "LeetCode/Problems/1448. Count Good Nodes in Binary Tree/1448. Count Good Nodes in Binary Tree.md",
     "LeetCode/Overall Progress.md",
+    "Tracker/Weekly Tracker.md",
     "LeetCode/Problems/LeetCode Problems by Category.md",
     "LeetCode/Problems/Maximum Subarray.md",
     "LeetCode/Problems/Problems Template.md",
-    "LeetCode/Topics/Tree.md",
-    "LeetCode/Problems/1448. Count Good Nodes in Binary Tree/1448. Count Good Nodes in Binary Tree.md",
-    "Tracker/Weekly Tracker.md",
     "LeetCode/Problems/1448. Count Good Nodes in Binary Tree",
-    "LeetCode/Topics/DFS.md",
     "LeetCode/Problems/543. Diameter of Binary Tree/543. Diameter of Binary Tree.md",
     "LeetCode/Problems/543. Diameter of Binary Tree/Diagram.md",
     "LeetCode/Problems/543. Diameter of Binary Tree",
@@ -241,8 +243,6 @@
     "LeetCode/Problems/934. Shortest Bridge",
     "LeetCode/Overall Progress_dummy.md",
     "LeetCode/Problems/Divisor Game.md",
-    "LeetCode/Topics/DP.md",
-    "Hackathons/Healthcare winners.md",
-    "ExoMine/ToDo.md"
+    "Hackathons/Healthcare winners.md"
   ]
 }
