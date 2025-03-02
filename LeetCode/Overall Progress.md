@@ -45,6 +45,11 @@ solutions:
     topics: "[[Tree]]"
     level: Medium
     solved: 2
+  - date: 02/03/2025
+    problem: "[[863. All Nodes Distance K in Binary Tree]]"
+    topics: "[[Tree]]"
+    level: Medium
+    solved: 1
 ---
 
 ```dataview

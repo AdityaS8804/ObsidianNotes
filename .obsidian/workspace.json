@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Problems/LeetCode Problems by Category.md",
+                "file": "Tracker/Weekly Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode Problems by Category"
+              "title": "Weekly Tracker"
+            }
+          },
+          {
+            "id": "0cecd0cec57f41f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/Overall Progress.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overall Progress"
             }
           }
         ],
@@ -210,16 +224,19 @@
   },
   "active": "c8a473b2be12ce66",
   "lastOpenFiles": [
-    "LeetCode/Topics/DP.md",
-    "LeetCode/Topics/Tree.md",
-    "LeetCode/Topics/DFS.md",
-    "LeetCode/Problems/133. Clone Graph.md",
-    "LeetCode/Problems/1448. Count Good Nodes in Binary Tree/1448. Count Good Nodes in Binary Tree.md",
+    "LeetCode/Problems/863. All Nodes Distance K in Binary Tree/863. All Nodes Distance K in Binary Tree.md",
     "LeetCode/Overall Progress.md",
-    "Tracker/Weekly Tracker.md",
+    "LeetCode/Topics/Tree.md",
     "LeetCode/Problems/LeetCode Problems by Category.md",
     "LeetCode/Problems/Maximum Subarray.md",
     "LeetCode/Problems/Problems Template.md",
+    "LeetCode/Problems/863. All Nodes Distance K in Binary Tree/Diagram.md",
+    "LeetCode/Problems/863. All Nodes Distance K in Binary Tree",
+    "LeetCode/Topics/DP.md",
+    "LeetCode/Topics/DFS.md",
+    "LeetCode/Problems/133. Clone Graph.md",
+    "LeetCode/Problems/1448. Count Good Nodes in Binary Tree/1448. Count Good Nodes in Binary Tree.md",
+    "Tracker/Weekly Tracker.md",
     "LeetCode/Problems/1448. Count Good Nodes in Binary Tree",
     "LeetCode/Problems/543. Diameter of Binary Tree/543. Diameter of Binary Tree.md",
     "LeetCode/Problems/543. Diameter of Binary Tree/Diagram.md",
@@ -241,8 +258,6 @@
     "handwritten-notes/Testing.pdf",
     "handwritten-notes",
     "LeetCode/Problems/934. Shortest Bridge",
-    "LeetCode/Overall Progress_dummy.md",
-    "LeetCode/Problems/Divisor Game.md",
-    "Hackathons/Healthcare winners.md"
+    "LeetCode/Overall Progress_dummy.md"
   ]
 }
