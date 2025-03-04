@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JP Morgan.md",
+                "file": "Tracker/Weekly Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JP Morgan"
+              "title": "Weekly Tracker"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "5c7636d1434ca486",
   "lastOpenFiles": [
-    "Tracker/Weekly Tracker.md",
     "JP Morgan.md",
+    "Tracker/Weekly Tracker.md",
     "LeetCode/Overall Progress.md",
     "Excalidraw/Drawing 2025-03-03 08.01.00.excalidraw.md",
     "LeetCode/Problems/Divisor Game.md",
