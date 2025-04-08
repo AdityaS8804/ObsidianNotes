@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5ba156dc9278f96",
+            "id": "9f59d118e887d6ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Weekly Tracker.md",
+                "file": "7-5-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly Tracker"
-            }
-          },
-          {
-            "id": "5c7636d1434ca486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/Weekly Tracker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Weekly Tracker"
-            }
-          },
-          {
-            "id": "2ae26904d28c2c85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hackathons/Scopium/README.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README.md"
-            }
-          },
-          {
-            "id": "e27708f738121079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hackathons/Scopium/README.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README.md"
-            }
-          },
-          {
-            "id": "86b37fa085388e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nument/Sprint1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sprint1"
+              "title": "7-5-2025"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,15 +203,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "86b37fa085388e38",
+  "active": "9f59d118e887d6ff",
   "lastOpenFiles": [
-    "Hackathons/Scopium/README.md.md",
+    "ToDo-refactor.md",
+    "7-5-2025.md",
+    "6-5-2025.md",
     "Nument/Sprint1.md",
+    "Hackathons/Scopium/README.md.md",
+    "Tracker/Weekly Tracker.md",
+    "Parallel Paper.md",
+    "JP Morgan.md",
     "Nument",
     "Hackathons/Scopium/Frontend workflow.md",
     "Hackathons/Scopium",
-    "Tracker/Weekly Tracker.md",
-    "JP Morgan.md",
     "LeetCode/Overall Progress.md",
     "Excalidraw/Drawing 2025-03-03 08.01.00.excalidraw.md",
     "LeetCode/Problems/Divisor Game.md",
@@ -289,13 +236,9 @@
     "LeetCode/Problems/543. Diameter of Binary Tree/Diagram.md",
     "LeetCode/Problems/543. Diameter of Binary Tree",
     "LeetCode/Problems/797. All Paths From Source to Target/797. All Paths From Source to Target.md",
-    "LeetCode/Problems/797. All Paths From Source to Target/Diagram.md",
-    "LeetCode/Problems/130. Surrounded Regions/Diagrams.md",
     "LeetCode/Problems/797. All Paths From Source to Target",
-    "LeetCode/Problems/130. Surrounded Regions/130. Surrounded Regions.md",
     "LeetCode/Problems/130. Surrounded Regions",
     "Excalidraw",
-    "LeetCode/Problems/934. Shortest Bridge/934. Shortest Bridge.md",
     "handwritten-notes/Testing.pdf",
     "handwritten-notes"
   ]
