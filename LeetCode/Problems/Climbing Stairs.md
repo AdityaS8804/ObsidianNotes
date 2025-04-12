@@ -22,3 +22,51 @@ def climbStairs(n:int)->int:
 	return curr
 	
 ```
+- Recurzive approach:
+```java
+class Solution {
+
+public int climbStairs(int n) {
+
+ArrayList<Integer> memoize=new ArrayList<>(n);
+
+for(int i=0;i<n;i++)
+
+memoize.add(-1);
+
+return dp(n,memoize);
+
+}
+
+public int dp(int n,ArrayList<Integer> memoize){
+
+int temp1,temp2;
+
+if(n<=3){
+
+return n;
+
+}
+
+if(!(memoize.get(n-1)>-1)){
+
+memoize.add(n-1,dp(n-1,memoize));
+
+}
+
+temp1=memoize.get(n-1);
+
+if(!(memoize.get(n-2)>-1)){
+
+memoize.add(n-2,dp(n-2,memoize));
+
+}
+
+temp2=memoize.get(n-2);
+
+return temp1+temp2;
+
+}
+
+}
+```

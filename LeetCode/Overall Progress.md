@@ -9,7 +9,7 @@ solutions:
     problem: "[[Climbing Stairs]]"
     topics: "[[DP]]"
     level: Easy
-    solved: 3
+    solved: 4
   - date: 14/01/2025
     problem: "[[Divisor Game]]"
     topics: "[[DP]]"
